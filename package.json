@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "server.js",
+  "version": "1.0.0",
+  "description": "Primera creacion de servidores",
+  "main": "server.js",
+  "keywords": [
+    "Primer",
+    "servidor",
+    "Servidor",
+    "Nodejs"
+  ],
+  "author": "KuKa",
+  "license": "ISC"
+}
